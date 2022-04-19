@@ -1,0 +1,498 @@
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 758189678
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.381562960961
+        y: 0.12005648414
+        z: 0.926643701195
+      rotation: 
+        x: 0.709592908462
+        y: -0.668817178732
+        z: 0.168278840799
+        w: 0.144373534392
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 758189678
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_4"
+    transform: 
+      translation: 
+        x: -0.313477863182
+        y: 0.123803881117
+        z: 0.922690134008
+      rotation: 
+        x: 0.709905021117
+        y: -0.666750075211
+        z: 0.171503422793
+        w: 0.148545528944
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 758189678
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_5"
+    transform: 
+      translation: 
+        x: -0.311203680024
+        y: 0.0750762858267
+        z: 0.948381427952
+      rotation: 
+        x: 0.711046562202
+        y: -0.667259253562
+        z: 0.166446690238
+        w: 0.146537961721
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 824848175
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_0"
+    transform: 
+      translation: 
+        x: -0.38498537176
+        y: 0.169219263035
+        z: 0.905820863039
+      rotation: 
+        x: 0.714878693699
+        y: -0.668309424116
+        z: 0.155040770606
+        w: 0.135178868107
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 824848175
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.381139202175
+        y: 0.119722260753
+        z: 0.9263470549
+      rotation: 
+        x: 0.709790780186
+        y: -0.669106285198
+        z: 0.165434900379
+        w: 0.145344835505
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 824848175
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_2"
+    transform: 
+      translation: 
+        x: -0.377434520471
+        y: 0.0701685721628
+        z: 0.947425345562
+      rotation: 
+        x: 0.712141517193
+        y: -0.668018282609
+        z: 0.164803132117
+        w: 0.139448776383
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 824848175
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_4"
+    transform: 
+      translation: 
+        x: -0.311865795724
+        y: 0.122956391698
+        z: 0.918839993309
+      rotation: 
+        x: 0.70898606648
+        y: -0.667152244284
+        z: 0.169761479175
+        w: 0.153061035776
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 824848175
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_3"
+    transform: 
+      translation: 
+        x: -0.317883959346
+        y: 0.173294850625
+        z: 0.90438845224
+      rotation: 
+        x: 0.710367126006
+        y: -0.667737243798
+        z: 0.166578044856
+        w: 0.147503472863
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 824848175
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_5"
+    transform: 
+      translation: 
+        x: -0.310574925666
+        y: 0.0747004248396
+        z: 0.94757299655
+      rotation: 
+        x: 0.710925845541
+        y: -0.666059381615
+        z: 0.168786203773
+        w: 0.149868474738
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 891507149
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_3"
+    transform: 
+      translation: 
+        x: -0.316808774987
+        y: 0.172572318234
+        z: 0.902028277432
+      rotation: 
+        x: 0.707789931448
+        y: -0.668614978753
+        z: 0.167570139768
+        w: 0.154621057383
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 891507149
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_4"
+    transform: 
+      translation: 
+        x: -0.312475536314
+        y: 0.123079520127
+        z: 0.921461938147
+      rotation: 
+        x: 0.71046172505
+        y: -0.666872614696
+        z: 0.167708987789
+        w: 0.149662114183
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 891507149
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_2"
+    transform: 
+      translation: 
+        x: -0.377529348355
+        y: 0.0699665059261
+        z: 0.948409003645
+      rotation: 
+        x: 0.711835480901
+        y: -0.667851042191
+        z: 0.165784333259
+        w: 0.140644190852
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 891507149
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.37987775729
+        y: 0.119119468685
+        z: 0.923924694316
+      rotation: 
+        x: 0.709050520958
+        y: -0.668308168078
+        z: 0.170496477348
+        w: 0.146773643484
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 891507149
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_0"
+    transform: 
+      translation: 
+        x: -0.38399202916
+        y: 0.168619649555
+        z: 0.904059268421
+      rotation: 
+        x: 0.713863685121
+        y: -0.668260011606
+        z: 0.156649850145
+        w: 0.138881317691
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 891507149
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_5"
+    transform: 
+      translation: 
+        x: -0.310675727854
+        y: 0.0745292291683
+        z: 0.948750694333
+      rotation: 
+        x: 0.711123659446
+        y: -0.66631326772
+        z: 0.169206535418
+        w: 0.147305528097
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 958165884
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_0"
+    transform: 
+      translation: 
+        x: -0.384224244449
+        y: 0.168547595173
+        z: 0.905304768334
+      rotation: 
+        x: 0.714945571959
+        y: -0.668047643812
+        z: 0.155850703715
+        w: 0.135187768994
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 958165884
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.380786334361
+        y: 0.119171028024
+        z: 0.92696510163
+      rotation: 
+        x: 0.710879919146
+        y: -0.668259305352
+        z: 0.164564439917
+        w: 0.144906129891
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 958165884
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_2"
+    transform: 
+      translation: 
+        x: -0.376851710272
+        y: 0.069559797636
+        z: 0.947583114068
+      rotation: 
+        x: 0.712178297207
+        y: -0.667737865645
+        z: 0.164479894521
+        w: 0.140977232454
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 958165884
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_4"
+    transform: 
+      translation: 
+        x: -0.31176914387
+        y: 0.122585280134
+        z: 0.92041370526
+      rotation: 
+        x: 0.710262882212
+        y: -0.66611804744
+        z: 0.169415145484
+        w: 0.152025963267
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 958165884
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_3"
+    transform: 
+      translation: 
+        x: -0.316364295003
+        y: 0.172222609992
+        z: 0.901712565059
+      rotation: 
+        x: 0.70804439653
+        y: -0.668040247326
+        z: 0.16755754867
+        w: 0.155948159265
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512146
+        nsecs: 958165884
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_5"
+    transform: 
+      translation: 
+        x: -0.310292012513
+        y: 0.0742268228552
+        z: 0.94865879964
+      rotation: 
+        x: 0.710262724929
+        y: -0.666775639553
+        z: 0.171420456087
+        w: 0.146806455272
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512147
+        nsecs:  24824619
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_0"
+    transform: 
+      translation: 
+        x: -0.384173912863
+        y: 0.16832677661
+        z: 0.905886429638
+      rotation: 
+        x: 0.716240044093
+        y: -0.666829881556
+        z: 0.156022553686
+        w: 0.13414570825
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512147
+        nsecs:  24824619
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.379957537872
+        y: 0.118661159696
+        z: 0.925653299304
+      rotation: 
+        x: 0.710188061376
+        y: -0.668073737178
+        z: 0.168036924285
+        w: 0.145168837045
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512147
+        nsecs:  24824619
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_4"
+    transform: 
+      translation: 
+        x: -0.311277189556
+        y: 0.122227061126
+        z: 0.919761788379
+      rotation: 
+        x: 0.709140573834
+        y: -0.665915667268
+        z: 0.172729394958
+        w: 0.154403778278
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1642512147
+        nsecs:  24824619
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_3"
+    transform: 
+      translation: 
+        x: -0.317071771212
+        y: 0.172424928795
+        z: 0.904509145255
+      rotation: 
+        x: 0.709922575807
+        y: -0.667649417202
+        z: 0.168762734181
+        w: 0.147557892438
