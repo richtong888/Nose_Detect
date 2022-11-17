@@ -1,0 +1,222 @@
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "my_bundle"
+    transform: 
+      translation: 
+        x: 0.110264255714
+        y: 0.180170396384
+        z: 0.62510416007
+      rotation: 
+        x: 0.974750709475
+        y: -0.116769957698
+        z: -0.0248021818582
+        w: 0.188707930761
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_0"
+    transform: 
+      translation: 
+        x: 0.110408400105
+        y: 0.180540588619
+        z: 0.626408417621
+      rotation: 
+        x: 0.972669657935
+        y: -0.116468763154
+        z: -0.0339493047713
+        w: 0.197980323386
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0503000060092
+        y: 0.147109457284
+        z: 0.644473871903
+      rotation: 
+        x: 0.969319171296
+        y: -0.114926662843
+        z: -0.0106994735994
+        w: 0.217020108725
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_4"
+    transform: 
+      translation: 
+        x: 0.172400056689
+        y: 0.216526662939
+        z: 0.615280586063
+      rotation: 
+        x: 0.980416883558
+        y: -0.12006186695
+        z: -0.0301931158112
+        w: 0.15315436101
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_2"
+    transform: 
+      translation: 
+        x: 0.149059203627
+        y: 0.123833066158
+        z: 0.646530842607
+      rotation: 
+        x: 0.970341810005
+        y: -0.114600455388
+        z: -0.0319145218304
+        w: 0.210439945537
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "my_bundle"
+    transform: 
+      translation: 
+        x: 0.110288089896
+        y: 0.180205388905
+        z: 0.625188784243
+      rotation: 
+        x: 0.975038230146
+        y: -0.116848328004
+        z: -0.024039906986
+        w: 0.187267191118
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0502964271129
+        y: 0.147128317051
+        z: 0.644551797964
+      rotation: 
+        x: 0.969483761634
+        y: -0.115469785729
+        z: -0.0149104100146
+        w: 0.215744395488
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_0"
+    transform: 
+      translation: 
+        x: 0.110549519496
+        y: 0.180819556167
+        z: 0.627329362282
+      rotation: 
+        x: 0.97340828147
+        y: -0.118363659968
+        z: -0.041678774357
+        w: 0.191648744669
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_4"
+    transform: 
+      translation: 
+        x: 0.172462861201
+        y: 0.216611788848
+        z: 0.61549782031
+      rotation: 
+        x: 0.979483969769
+        y: -0.120919162376
+        z: -0.0364710295854
+        w: 0.157033668799
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_2"
+    transform: 
+      translation: 
+        x: 0.149007900032
+        y: 0.123789754719
+        z: 0.646326435522
+      rotation: 
+        x: 0.970186861117
+        y: -0.114671733876
+        z: -0.0331407296244
+        w: 0.210925437074
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "my_bundle"
+    transform: 
+      translation: 
+        x: 0.110258398366
+        y: 0.180176514666
+        z: 0.625104381334
+      rotation: 
+        x: 0.974846316124
+        y: -0.116904734766
+        z: -0.0250628115873
+        w: 0.188095184428
+---
+

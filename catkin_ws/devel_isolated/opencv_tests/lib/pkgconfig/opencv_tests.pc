@@ -1,0 +1,8 @@
+prefix=/home/richtong888/nose_decect/catkin_ws/devel_isolated/opencv_tests
+
+Name: opencv_tests
+Description: Description of opencv_tests
+Version: 1.12.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

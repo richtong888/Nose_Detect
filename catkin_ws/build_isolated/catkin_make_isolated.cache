@@ -1,0 +1,2 @@
+Dlib_detection:apriltag_ros/apriltag_ros:beginner_tutorials:pcl_icp:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:usb_cam:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/richtong888/nose_decect/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/richtong888/nose_decect/catkin_ws/install_isolated

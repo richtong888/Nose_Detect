@@ -1,0 +1,101 @@
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656427137
+        nsecs: 788746595
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.00586963901121
+        y: 0.0491165659266
+        z: 0.286196313843
+      rotation: 
+        x: -0.692504317816
+        y: 0.717904252335
+        z: 0.0506990428391
+        w: 0.0498082457074
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656427137
+        nsecs: 822300673
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.00585740953002
+        y: 0.0491149253918
+        z: 0.286203668535
+      rotation: 
+        x: -0.692521038395
+        y: 0.717907778328
+        z: 0.0503429016071
+        w: 0.0498861248646
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656427137
+        nsecs: 855854511
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.00586982507241
+        y: 0.0491165469279
+        z: 0.286182948724
+      rotation: 
+        x: -0.692518008242
+        y: 0.717915669463
+        z: 0.05065703055
+        w: 0.0494951013329
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656427137
+        nsecs: 889408112
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.00586513357345
+        y: 0.0491085708934
+        z: 0.286168077624
+      rotation: 
+        x: -0.692480067636
+        y: 0.717941725831
+        z: 0.05075921876
+        w: 0.049543273494
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656427137
+        nsecs: 922961473
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.00586347799616
+        y: 0.0491105047909
+        z: 0.286159185978
+      rotation: 
+        x: -0.692547147456
+        y: 0.717877748363
+        z: 0.0507009743666
+        w: 0.049592319502
+---
+

@@ -1,0 +1,100 @@
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0550641924873
+        y: 0.0112655214955
+        z: 0.22792055536
+      rotation: 
+        x: 0.372445049745
+        y: 0.915715364333
+        z: 0.0205665547618
+        w: -0.149422465746
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0550495790862
+        y: 0.0112552100952
+        z: 0.227896821659
+      rotation: 
+        x: 0.372707550598
+        y: 0.915387925974
+        z: 0.0192508284972
+        w: -0.150941817635
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0550498310447
+        y: 0.0112666751268
+        z: 0.227822624968
+      rotation: 
+        x: 0.372664023939
+        y: 0.915697270431
+        z: 0.0221512021054
+        w: -0.148759397791
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0550518702788
+        y: 0.0112624610258
+        z: 0.227825397669
+      rotation: 
+        x: 0.372701442395
+        y: 0.9155566052
+        z: 0.0222120610434
+        w: -0.149520439592
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0550511120411
+        y: 0.0112645112631
+        z: 0.227851898597
+      rotation: 
+        x: 0.372444525879
+        y: 0.915698164831
+        z: 0.0223047742941
+        w: -0.149279747829
+

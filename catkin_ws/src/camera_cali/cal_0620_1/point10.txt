@@ -1,0 +1,100 @@
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656412092
+        nsecs: 697175741
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.0517142867072
+        y: 0.107784711621
+        z: 0.41218841825
+      rotation: 
+        x: 0.581609531596
+        y: 0.80961905097
+        z: 0.0317956476951
+        w: -0.0723628485514
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656412092
+        nsecs: 730574608
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.0517140247353
+        y: 0.107780236386
+        z: 0.412185168578
+      rotation: 
+        x: 0.581556454055
+        y: 0.809639023908
+        z: 0.0319154612521
+        w: -0.0725130681015
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656412092
+        nsecs: 763972998
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.0517151346895
+        y: 0.107785937657
+        z: 0.412211231904
+      rotation: 
+        x: 0.581580850655
+        y: 0.809654202673
+        z: 0.0315868230156
+        w: -0.0722914853726
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656412092
+        nsecs: 797370195
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.0517071771802
+        y: 0.107769107127
+        z: 0.412152877426
+      rotation: 
+        x: 0.581542305025
+        y: 0.809657211646
+        z: 0.0315978092679
+        w: -0.0725625629821
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1656412092
+        nsecs: 830766678
+      frame_id: "camera_color_optical_frame"
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.0517123581868
+        y: 0.107771072499
+        z: 0.412154765423
+      rotation: 
+        x: 0.581552249729
+        y: 0.809629541338
+        z: 0.0318622265148
+        w: -0.0726758911195
+

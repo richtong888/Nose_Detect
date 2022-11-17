@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/richtong888/nose_decect/catkin_ws/src/camera_cali'
+g++ eye-on-hand.cpp -o eye-on-hand `pkg-config --cflags --libs opencv4`
+make: Leaving directory '/home/richtong888/nose_decect/catkin_ws/src/camera_cali'
+ 

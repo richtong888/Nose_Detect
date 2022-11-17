@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o   -L/home/richtong888/nose_decect/catkin_ws/build_isolated/apriltag_ros/gtest/googlemock/gtest/src  -Wl,-rpath,/home/richtong888/nose_decect/catkin_ws/build_isolated/apriltag_ros/gtest/googlemock/gtest/src -lpthread 

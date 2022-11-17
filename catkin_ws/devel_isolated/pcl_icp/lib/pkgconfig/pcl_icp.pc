@@ -1,0 +1,8 @@
+prefix=/home/richtong888/nose_decect/catkin_ws/devel_isolated/pcl_icp
+
+Name: pcl_icp
+Description: Description of pcl_icp
+Version: 0.0.0
+Cflags: -I/home/richtong888/nose_decect/catkin_ws/devel_isolated/pcl_icp/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs geometry_msgs tf message_runtime

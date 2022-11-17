@@ -1,0 +1,2 @@
+apriltag_ros/apriltag_ros:pcl_icp:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/richtong888/nose_decect/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/richtong888/nose_decect/catkin_ws/install -G Unix Makefiles

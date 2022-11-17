@@ -1,0 +1,81 @@
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.00417982767763
+        y: 0.028743767767
+        z: 0.151589342036
+      rotation: 
+        x: 0.346833721104
+        y: 0.934589929019
+        z: 0.0787478144101
+        w: 0.0068422370384
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.00418052077055
+        y: 0.0287494960467
+        z: 0.151631352348
+      rotation: 
+        x: 0.346841900871
+        y: 0.934641111945
+        z: 0.0781107679694
+        w: 0.00673762487751
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.00417941924473
+        y: 0.0287458396864
+        z: 0.151641883383
+      rotation: 
+        x: 0.346891570762
+        y: 0.934613803635
+        z: 0.0781836224936
+        w: 0.00711318234139
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: -0.00417691804393
+        y: 0.0287465550645
+        z: 0.151612449449
+      rotation: 
+        x: 0.346855390133
+        y: 0.93461548129
+        z: 0.0783488120557
+        w: 0.00683404114543
+---
+

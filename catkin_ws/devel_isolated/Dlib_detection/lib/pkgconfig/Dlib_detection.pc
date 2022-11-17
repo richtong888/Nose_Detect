@@ -1,0 +1,8 @@
+prefix=/home/richtong888/nose_decect/catkin_ws/devel_isolated/Dlib_detection
+
+Name: Dlib_detection
+Description: Description of Dlib_detection
+Version: 0.0.0
+Cflags: -I/home/richtong888/nose_decect/catkin_ws/devel_isolated/Dlib_detection/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

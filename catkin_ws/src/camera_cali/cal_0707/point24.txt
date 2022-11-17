@@ -1,0 +1,121 @@
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0900037839851
+        y: 0.0227035303454
+        z: 0.268406811624
+      rotation: 
+        x: 0.406135609857
+        y: 0.88198740415
+        z: -0.229478075386
+        w: 0.0670216251975
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0899905682081
+        y: 0.0226992989164
+        z: 0.268350264472
+      rotation: 
+        x: 0.405929585041
+        y: 0.882034788448
+        z: -0.229551808793
+        w: 0.0673926630668
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0900050947192
+        y: 0.0227062205393
+        z: 0.268380895096
+      rotation: 
+        x: 0.406168451628
+        y: 0.882023832318
+        z: -0.229102671335
+        w: 0.0676248039652
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0900172642588
+        y: 0.0227108071113
+        z: 0.268428303514
+      rotation: 
+        x: 0.405966682464
+        y: 0.882048633179
+        z: -0.229526619062
+        w: 0.0670730391256
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0899943561317
+        y: 0.0226994009826
+        z: 0.268372110414
+      rotation: 
+        x: 0.405681423147
+        y: 0.882055067062
+        z: -0.230008616396
+        w: 0.0670632385718
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0900073098686
+        y: 0.0227132003467
+        z: 0.268421973901
+      rotation: 
+        x: 0.405951477961
+        y: 0.88200151072
+        z: -0.229781054567
+        w: 0.0669133737793
+---
+

@@ -1,0 +1,141 @@
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0404823777608
+        y: 0.015772235618
+        z: 0.18437725504
+      rotation: 
+        x: 0.393088766824
+        y: 0.912877424483
+        z: -0.030018182221
+        w: -0.105994990454
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0404802660948
+        y: 0.0157722829031
+        z: 0.184348931681
+      rotation: 
+        x: 0.393013379959
+        y: 0.912981838012
+        z: -0.02960021238
+        w: -0.105491582893
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0404849513432
+        y: 0.0157727656264
+        z: 0.184377349774
+      rotation: 
+        x: 0.39295826576
+        y: 0.913019750944
+        z: -0.0298265450004
+        w: -0.105304857297
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0404777793877
+        y: 0.0157653076812
+        z: 0.184367301283
+      rotation: 
+        x: 0.392823398233
+        y: 0.912955753892
+        z: -0.0310085304831
+        w: -0.106019056183
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.040478517204
+        y: 0.0157721601771
+        z: 0.184358527089
+      rotation: 
+        x: 0.392850765504
+        y: 0.912971727577
+        z: -0.0302457467581
+        w: -0.106000450426
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0404831231434
+        y: 0.0157706172481
+        z: 0.184378042087
+      rotation: 
+        x: 0.392910711529
+        y: 0.912985302429
+        z: -0.0303496653626
+        w: -0.105630999841
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 0
+        nsecs:         0
+      frame_id: ''
+    child_frame_id: "tag_1"
+    transform: 
+      translation: 
+        x: 0.0404824155876
+        y: 0.0157716176127
+        z: 0.184390946335
+      rotation: 
+        x: 0.392991569172
+        y: 0.912968877854
+        z: -0.0302765257179
+        w: -0.105493064322
+---
+

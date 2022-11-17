@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/richtong888/nose_decect/catkin_ws/devel_isolated/image_geometry/setup.sh
